@@ -1,0 +1,6 @@
+{
+  "name": "AI Bản Đồ Nhiệm Vụ - Hành Trình Chinh Phục Lớp 5",
+  "description": "Ứng dụng web giáo dục AI bản đồ nhiệm vụ kiến tạo hành trình chinh phục lớp 5, cá nhân hóa mục tiêu, tăng tự học và sẵn sàng chuyển cấp THCS - Cô Lê Thị Yến, Trường Tiểu học Khoái Châu 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
